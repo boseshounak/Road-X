@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Road -X</string>
+    <string name="title_activity_maps">Road -X</string>
+    <string name="title_activity_home__page">Road -X</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Lakshya Sharma</string>
+    <string name="nav_header_subtitle">sharma.lakshya@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>
